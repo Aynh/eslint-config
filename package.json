@@ -13,22 +13,22 @@
 		"build": "tsc"
 	},
 	"dependencies": {
-		"@typescript-eslint/eslint-plugin": "^5.30.3",
-		"@typescript-eslint/parser": "^5.30.3",
-		"eslint-import-resolver-typescript": "^3.1.4",
+		"@typescript-eslint/eslint-plugin": "^5.31.0",
+		"@typescript-eslint/parser": "^5.31.0",
+		"eslint-import-resolver-typescript": "^3.3.0",
 		"eslint-plugin-import": "^2.26.0",
-		"eslint-plugin-sonarjs": "^0.13.0",
-		"eslint-plugin-unicorn": "^43.0.0",
+		"eslint-plugin-sonarjs": "^0.14.0",
+		"eslint-plugin-unicorn": "^43.0.2",
 		"eslint-config-prettier": "^8.5.0"
 	},
 	"devDependencies": {
-		"eslint": "^8.18.0",
-		"eslint-define-config": "^1.5.1",
+		"eslint": "^8.20.0",
+		"eslint-define-config": "^1.6.0",
 		"prettier": "^2.7.1",
 		"typescript": "^4.7.4"
 	},
 	"peerDependencies": {
-		"eslint": ">= 8.18.0",
+		"eslint": ">= 8.20.0",
 		"typescript": ">= 4.7.4"
 	},
 	"repository": {
